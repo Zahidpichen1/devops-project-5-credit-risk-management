@@ -39,8 +39,9 @@ A Regression type prediction model using *RandomForestClassifier* algorithm. It 
 3) executed the command `docker run <docker_image_name>` to run the docker image.
 
 #### Output
-
+  ##### Command Prompt
   ![5 1](https://github.com/user-attachments/assets/77a9b317-d49a-4ef2-b24f-de2254daac42)
-
+  
+  ##### Docker Hub 
   ![5 2](https://github.com/user-attachments/assets/f36765a7-72d5-4381-8f3c-1a9989e31e43)
 
