@@ -1,7 +1,7 @@
 # Credit Risk Management
 
 ## Description
-A Regression type prediction model using *RandomForestClassifier* algorithm. It uses accuracy_score as the metric for prediction.
+A Regression type prediction model using *Random Forest Classifier* algorithm. It uses accuracy_score as the metric for prediction.
 
 ## Steps
 
