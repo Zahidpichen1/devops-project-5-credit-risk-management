@@ -33,4 +33,14 @@ A Regression type prediction model using *RandomForestClassifier* algorithm. It 
 #### Output
   ![5](https://github.com/user-attachments/assets/e2dc825e-b4b1-4c10-9919-229717c38c57)
 
+### Dockers
+1) used `cd` to go forward and `cd..` to do backward, to get to the correct path in command prompt (i.e. the folder where all the files including docerfile is located.
+2) executed the command `docker build -t <docker_image_name> .` to build the docker image.
+3) executed the command `docker run <docker_image_name>` to run the docker image.
+
+#### Output
+
+  ![5 1](https://github.com/user-attachments/assets/77a9b317-d49a-4ef2-b24f-de2254daac42)
+
+  ![5 2](https://github.com/user-attachments/assets/f36765a7-72d5-4381-8f3c-1a9989e31e43)
 
